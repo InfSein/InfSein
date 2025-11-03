@@ -1,6 +1,6 @@
-# Inf Sein / 浮浮
+# Inf Sein
 ![Visitor's Count](https://komarev.com/ghpvc/?username=InfSein&color=blue&style=flat) <br>
-Full-Stack Developer.
+C#, Typescript.
 
 ## Statistics 
 ![InfSein's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfSein&layout=compact)
