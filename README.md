@@ -3,12 +3,12 @@
 
 ### 🎨Me?
  - Full stack developer, mainly `C#` & `Vue`
- - Game player, mainly `FFXIV`, `Overwatch` & `Dota 2`
+ - Game player, mainly `FFXIV`, `Arknights: Endfield`, `Overwatch` & `Dota 2`
 
 ### 📕Representative Works
 | **Frontend**                                                 | **Backend**                     | **Client**                                                   | **Other**                                                    |
 | ------------------------------------------------------------ | ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| - [hqhelper-dawntrail](https://github.com/InfSein/hqhelper-dawntrail)<br/>  - [xiv-cac](https://github.com/InfSein/xiv-cac)<br/>  - [frontline-overlay](https://github.com/InfSein/frontline-overlay)<br/>  - [pvp-lb-monitor](https://github.com/InfSein/pvp-lb-monitor) | - _Oops, nothing here, now_ | - [hqhelper-client](https://github.com/InfSein/hqhelper-client)<br/>  - [fufu-toolbox](https://github.com/InfSein/fufu-toolbox)<br/>  - [endfield-resolution-editor](https://github.com/InfSein/endfield-resolution-editor)<br/>  - [cnow-cleaner](https://github.com/InfSein/cnow-cleaner) | - [CraftimizerCN](https://github.com/InfSein/CraftimizerCN)<br/>  - [ffxiv-datamining-mixed](https://github.com/InfSein/ffxiv-datamining-mixed) |
+| - [hqhelper-dawntrail](https://github.com/InfSein/hqhelper)<br/>  - [xiv-cac](https://github.com/InfSein/xiv-cac)<br/>  - [pvp-calendar](https://github.com/ffxiv-wakeng/pvp-calendar) | - _All closedsource, now_ | - [hqhelper-client](https://github.com/InfSein/hqhelper-client)<br/>  - [fufu-toolbox](https://github.com/InfSein/fufu-toolbox) |  - [frontline-overlay](https://github.com/InfSein/frontline-overlay)<br/>  - [pvp-lb-monitor](https://github.com/InfSein/pvp-lb-monitor)  <br/>  - [CraftimizerCN](https://github.com/InfSein/CraftimizerCN)<br/>  - [ffxiv-datamining-mixed](https://github.com/InfSein/ffxiv-datamining-mixed) |
 
 ### 📈Statistics 
 <table>
